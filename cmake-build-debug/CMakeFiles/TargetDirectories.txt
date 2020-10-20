@@ -1,0 +1,3 @@
+C:/Users/idoki/CLionProjects/c/CSES_IP/cmake-build-debug/CMakeFiles/CSES_IP1.dir
+C:/Users/idoki/CLionProjects/c/CSES_IP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/idoki/CLionProjects/c/CSES_IP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
